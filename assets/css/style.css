@@ -1,17 +1,25 @@
 body {
-    background-color: rgb(221, 245, 245);
+  background-color: rgb(221, 245, 245);
 }
 
 h1 {
-    color: teal;
+  color: teal;
 }
 
-.main-content{
-    background-color: white;
-}
-
-
+/* navbar color change */
 .navbar-light .navbar-brand {
-    background-color: teal;
-    color: white;
+  background-color: teal;
+  color: white;
+}
+
+/* background image for index page */
+.main-content {
+  background-color: white;
+}
+
+.about-image {
+  margin-top: 10px;
+  margin-right: 20px;
+  margin-bottom: 10px;
+  margin-left: 10px;
 }
