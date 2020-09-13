@@ -1,4 +1,8 @@
-h1{
-    background-color: rgb(9, 163, 86);
-    color: azure;
+h1 {
+    color: teal;
+}
+
+.navbar-light .navbar-brand {
+    background-color: teal;
+    color: white;
 }
