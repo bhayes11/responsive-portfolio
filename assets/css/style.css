@@ -6,6 +6,11 @@ h1 {
     color: teal;
 }
 
+.main-content{
+    background-color: white;
+}
+
+
 .navbar-light .navbar-brand {
     background-color: teal;
     color: white;
