@@ -12,6 +12,10 @@ h1 {
   color: white;
 }
 
+#navbar-style {
+    margin-bottom: 60px;
+}
+
 /* background image for index page */
 .main-content {
   background-color: white;
