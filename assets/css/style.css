@@ -16,7 +16,7 @@ h1 {
     margin-bottom: 60px;
 }
 
-/* background image for index page */
+/* main content box */
 .main-content {
   background-color: white;
 }
@@ -26,4 +26,11 @@ h1 {
   margin-right: 20px;
   margin-bottom: 10px;
   margin-left: 10px;
+}
+
+#footer-sec {
+  margin-top: 60px;
+  padding: 12px;
+  border-top: 7px solid teal;
+  background-color: rgb(85, 85, 85);
 }
