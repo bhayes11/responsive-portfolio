@@ -14,7 +14,16 @@ The purpose of this project was to create a responsive portfolio website from sc
 
 View the website [here](https://bhayes11.github.io/responsive-portfolio/)
 
-![Picture of Horiseon website](horiseon_screenshot.png)
+
+Full website display ![Full Size Website](/assets/images/about.png)
+
+
+
+Medium website display ![Full Size Website](/assets/images/about768.png)
+
+
+
+Small website display ![Full Size Website](/assets/images/about400.png)
 
 ## License
 
