@@ -25,6 +25,7 @@ h1 {
   padding-bottom: 40px;
 }
 
+/* this is the bio image */
 .about-image {
   margin-top: 10px;
   margin-right: 20px;
@@ -32,6 +33,23 @@ h1 {
   margin-left: 10px;
 }
 
+/* this is for the portfolio images */
+.portfolio-image {
+  margin-top: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+}
+
+/* portfolio image column */
+.portfolio-column {
+  padding-top: 0px;
+  padding-right: 20px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+}
+
+/* footer */
 #footer-sec {
   margin-top: 60px;
   padding: 12px;
