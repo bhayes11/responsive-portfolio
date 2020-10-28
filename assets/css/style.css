@@ -36,7 +36,7 @@ h5 {
 
 /* main content box */
 .main-content {
-  background-color: white;
+  background-color: rgb(255, 255, 255);
   padding-bottom: 40px;
   border-radius: 8px;
   box-shadow: 3px 3px 3px rgb(196, 196, 196);
@@ -81,8 +81,11 @@ h5 {
 }
 
 /* footer */
+.nav-text {
+  color: rgb(198, 198, 198);
+}
+
 #footer-sec {
   margin-top: 60px;
   padding: 3px;
-  background-color: rgb(215, 215, 215);
 }
